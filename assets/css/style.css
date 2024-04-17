@@ -390,6 +390,10 @@ hr {
     }
 
     #benefits-image {
+        order: 0;
+    }
+
+    #benefits-mental {
         order: 1;
     }
 
